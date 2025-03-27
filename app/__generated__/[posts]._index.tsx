@@ -64,6 +64,7 @@ className={`w-heading`}>
 <Image
 src={PostItem?.["feature_image"]}
 alt={PostItem?.["feature_image_alt"] || PostItem?.["feature_image_caption"] || ""}
+optimize={false}
 className={`w-image c1ie16x2`} />
 </Link>
 </Box>

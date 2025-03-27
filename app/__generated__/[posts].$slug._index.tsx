@@ -72,6 +72,7 @@ className={`w-link`}>
 src={ghostPost?.data?.posts?.[0]?.["feature_image"]}
 alt={ghostPost?.data?.posts?.[0]?.["feature_image_alt"] ||ghostPost?.data?.posts?.[0]?.["feature_image_caption"] || ""}
 loading={"eager"}
+optimize={false}
 className={`w-image`} />
 {(ghostPost?.data?.posts?.[0]?.["reading_time"] === 0 ? false : true) &&
 <Text
@@ -134,6 +135,7 @@ alt={"Picture of " + AuthorItem?.name}
 width={100}
 height={100}
 loading={"lazy"}
+optimize={false}
 className={`w-image`} />
 }
 <Link

@@ -1,10 +1,10 @@
 {
   "build": {
-    "id": "985423ef-eb10-49e0-9f9b-ebab64aa0668",
+    "id": "d63bb56e-8234-4383-aa42-3ecb88e664cc",
     "projectId": "d87953ec-0824-43d4-9fd1-e0f07f1186bb",
-    "version": 155,
-    "createdAt": "2025-03-27T14:38:12.887+00:00",
-    "updatedAt": "2025-03-27T14:38:12.887+00:00",
+    "version": 170,
+    "createdAt": "2025-03-27T15:50:27.546+00:00",
+    "updatedAt": "2025-03-27T15:50:27.546+00:00",
     "pages": {
       "meta": {},
       "homePage": {
@@ -33181,7 +33181,7 @@
           "instanceId": "9qgieRCILIUi0icNTVggY",
           "name": "src",
           "type": "asset",
-          "value": "7a1d195ea7036746fd6a4f9b78cbed95ce4ed323d23c1c20ce86d10a7d38eb2c"
+          "value": "8dd0b532aec0d6095d39ed751f7550b37ad2ff747638310f2bebfd3c63ff6b4a"
         }
       ],
       [
@@ -33191,7 +33191,7 @@
           "instanceId": "9qgieRCILIUi0icNTVggY",
           "name": "width",
           "type": "asset",
-          "value": "7a1d195ea7036746fd6a4f9b78cbed95ce4ed323d23c1c20ce86d10a7d38eb2c"
+          "value": "8dd0b532aec0d6095d39ed751f7550b37ad2ff747638310f2bebfd3c63ff6b4a"
         }
       ],
       [
@@ -33201,7 +33201,7 @@
           "instanceId": "9qgieRCILIUi0icNTVggY",
           "name": "height",
           "type": "asset",
-          "value": "7a1d195ea7036746fd6a4f9b78cbed95ce4ed323d23c1c20ce86d10a7d38eb2c"
+          "value": "8dd0b532aec0d6095d39ed751f7550b37ad2ff747638310f2bebfd3c63ff6b4a"
         }
       ],
       [
@@ -33651,7 +33651,7 @@
           "instanceId": "KaBPSROTK9ZFHwjDfbkov",
           "name": "src",
           "type": "asset",
-          "value": "7d7afdb2ad004150ebb74a849b087dd4073d7ed6834637e0a61523c6c39a19f4"
+          "value": "cc8f3c889d70a27dfcc7271e74bc4814a1aab4fe6f75176920eca14ce003abe0"
         }
       ],
       [
@@ -33661,7 +33661,7 @@
           "instanceId": "KaBPSROTK9ZFHwjDfbkov",
           "name": "width",
           "type": "asset",
-          "value": "7d7afdb2ad004150ebb74a849b087dd4073d7ed6834637e0a61523c6c39a19f4"
+          "value": "cc8f3c889d70a27dfcc7271e74bc4814a1aab4fe6f75176920eca14ce003abe0"
         }
       ],
       [
@@ -33671,7 +33671,7 @@
           "instanceId": "KaBPSROTK9ZFHwjDfbkov",
           "name": "height",
           "type": "asset",
-          "value": "7d7afdb2ad004150ebb74a849b087dd4073d7ed6834637e0a61523c6c39a19f4"
+          "value": "cc8f3c889d70a27dfcc7271e74bc4814a1aab4fe6f75176920eca14ce003abe0"
         }
       ],
       [
@@ -33690,8 +33690,8 @@
           "id": "Ac0Er6C6yvG6Mhn-FyKWn",
           "instanceId": "H9MvC9l6-acLTAbz7VZ--",
           "name": "width",
-          "type": "string",
-          "value": "400"
+          "type": "asset",
+          "value": "2ebc42ebe347c885f459a2e5b7ee3d69561d564344874a437aee46a77054acf5"
         }
       ],
       [
@@ -33701,17 +33701,7 @@
           "instanceId": "H9MvC9l6-acLTAbz7VZ--",
           "name": "src",
           "type": "asset",
-          "value": "ac2fbde862be52ab6d2a6cbf67c9c21b63b7e17214645f89ab57abe89ffbdf03"
-        }
-      ],
-      [
-        "--lL0p-2ypitz-dOHsKwX",
-        {
-          "id": "--lL0p-2ypitz-dOHsKwX",
-          "instanceId": "H9MvC9l6-acLTAbz7VZ--",
-          "name": "width",
-          "type": "asset",
-          "value": "ac2fbde862be52ab6d2a6cbf67c9c21b63b7e17214645f89ab57abe89ffbdf03"
+          "value": "2ebc42ebe347c885f459a2e5b7ee3d69561d564344874a437aee46a77054acf5"
         }
       ],
       [
@@ -33721,7 +33711,7 @@
           "instanceId": "H9MvC9l6-acLTAbz7VZ--",
           "name": "height",
           "type": "asset",
-          "value": "ac2fbde862be52ab6d2a6cbf67c9c21b63b7e17214645f89ab57abe89ffbdf03"
+          "value": "2ebc42ebe347c885f459a2e5b7ee3d69561d564344874a437aee46a77054acf5"
         }
       ],
       [
@@ -38880,6 +38870,46 @@
           "type": "string",
           "value": "lazy"
         }
+      ],
+      [
+        "cX7yy_NASox3BvYKI4LGp",
+        {
+          "id": "cX7yy_NASox3BvYKI4LGp",
+          "instanceId": "XH2I7OgPXtNGJAhuwYUbr",
+          "name": "optimize",
+          "type": "boolean",
+          "value": true
+        }
+      ],
+      [
+        "X1wkstbJ47N2UmjV9fasW",
+        {
+          "id": "X1wkstbJ47N2UmjV9fasW",
+          "instanceId": "quoW8mWCE9l39_GriJPOZ",
+          "name": "optimize",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      [
+        "jbUKgwaAuuqdBSXg369TE",
+        {
+          "id": "jbUKgwaAuuqdBSXg369TE",
+          "instanceId": "UEYeD45f4JFykX6mZuZAH",
+          "name": "optimize",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      [
+        "Tb7sgb9NiyWdiLuwfYx2j",
+        {
+          "id": "Tb7sgb9NiyWdiLuwfYx2j",
+          "instanceId": "yQThxm8sBXQsIhJqqESQq",
+          "name": "optimize",
+          "type": "boolean",
+          "value": false
+        }
       ]
     ],
     "dataSources": [
@@ -39170,25 +39200,7 @@
           "children": [
             {
               "type": "id",
-              "value": "JaZ1TIlJoqQzJqKhGlV1I"
-            },
-            {
-              "type": "id",
               "value": "Fz1uuQT95hSF3yg9X2vz5"
-            }
-          ]
-        }
-      ],
-      [
-        "JaZ1TIlJoqQzJqKhGlV1I",
-        {
-          "type": "instance",
-          "id": "JaZ1TIlJoqQzJqKhGlV1I",
-          "component": "Paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "2ce6f1c9f72c82d43ff4ace9a1317100c9a85fd0"
             }
           ]
         }
@@ -49135,7 +49147,50 @@
       "path": "/sitemap.xml"
     }
   ],
-  "assets": [],
+  "assets": [
+    {
+      "id": "2ebc42ebe347c885f459a2e5b7ee3d69561d564344874a437aee46a77054acf5",
+      "name": "Home-Hero-Kristof_Eilers_Mobile_eqOrV3Tagvybc-tRqI8zk.png",
+      "description": null,
+      "projectId": "d87953ec-0824-43d4-9fd1-e0f07f1186bb",
+      "size": 196662,
+      "type": "image",
+      "format": "png",
+      "createdAt": "2025-03-27T15:49:09.81+00:00",
+      "meta": {
+        "width": 800,
+        "height": 801
+      }
+    },
+    {
+      "id": "8dd0b532aec0d6095d39ed751f7550b37ad2ff747638310f2bebfd3c63ff6b4a",
+      "name": "logo-eilers-inverse_blhQ-po1zUxtag4S14crl.svg",
+      "description": null,
+      "projectId": "d87953ec-0824-43d4-9fd1-e0f07f1186bb",
+      "size": 2163,
+      "type": "image",
+      "format": "svg",
+      "createdAt": "2025-03-27T15:50:14.48+00:00",
+      "meta": {
+        "width": 71,
+        "height": 19
+      }
+    },
+    {
+      "id": "cc8f3c889d70a27dfcc7271e74bc4814a1aab4fe6f75176920eca14ce003abe0",
+      "name": "Home-Hero-Kristof_Eilers_9c-2cmUTovJYAQwK5PTXa.webp",
+      "description": null,
+      "projectId": "d87953ec-0824-43d4-9fd1-e0f07f1186bb",
+      "size": 68844,
+      "type": "image",
+      "format": "webp",
+      "createdAt": "2025-03-27T15:40:11.322+00:00",
+      "meta": {
+        "width": 2880,
+        "height": 1415
+      }
+    }
+  ],
   "user": {
     "email": "hello@webstudio.is"
   },

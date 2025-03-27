@@ -5,7 +5,7 @@
       import { Fragment, useState } from "react";
       import { useResource, useVariableState } from "@webstudio-is/react-sdk/runtime";
       import { Body as Body, Link as Link } from "@webstudio-is/sdk-components-react-router";
-import { Paragraph as Paragraph, Box as Box, Image as Image, Text as Text, HtmlEmbed as HtmlEmbed, Heading as Heading, List as List, ListItem as ListItem, CodeText as CodeText } from "@webstudio-is/sdk-components-react";
+import { Box as Box, Image as Image, Text as Text, HtmlEmbed as HtmlEmbed, Heading as Heading, List as List, ListItem as ListItem, CodeText as CodeText } from "@webstudio-is/sdk-components-react";
 
 
       export const siteName = undefined;
@@ -33,10 +33,6 @@ import { Paragraph as Paragraph, Box as Box, Image as Image, Text as Text, HtmlE
       const Page = (_props: { system: any; }) => {
 return <Body
 className={`w-body c1y9gziq`}>
-<Paragraph
-className={`w-paragraph`}>
-{"2ce6f1c9f72c82d43ff4ace9a1317100c9a85fd0"}
-</Paragraph>
 <Box
 className={`w-box c28fww9 chdy0zp c1fcp10z cgiouru ce48kpg cp0lkkj c16krrh4 cwg7cj8`}>
 <Box
@@ -89,6 +85,9 @@ href={"#"}
 className={`w-link cwocyxa c1vxo9he cfarbyh c1vif99j c1vf5pvz`}>
 <Image
 loading={"eager"}
+src={"/assets/logo-eilers-inverse_blhQ-po1zUxtag4S14crl.svg"}
+width={71}
+height={19}
 className={`w-image c74wcrw c1vxo9he cfarbyh c1qxvaw5`} />
 </Link>
 </Box>
@@ -335,12 +334,17 @@ className={`w-text cu9hv8r c14oa7dp cxxvriy`}>
 className={`w-box c28fww9 c1pemqym cdwzvhc c1j79q8c c19x9x3x cog9dx cwocyxa chcnuq6 cjharz9 cp7cphg crvvhuu c139epf8 c1a3e3k5 c2zz5jn c17r6cjo cz8cvul`}>
 <Image
 loading={"eager"}
+src={"/assets/Home-Hero-Kristof_Eilers_9c-2cmUTovJYAQwK5PTXa.webp"}
+width={2880}
+height={1415}
 className={`w-image c74wcrw c1vxo9he cfarbyh c1ptvd2v cy4ksh5 cvfskat c1qxvaw5 c5lmlz1 c6qwnsj cxjibo1`} />
 <Box
 className={`w-box c1w456ph crzmcf cmcthm8 c1trq7k c16emni1 ce4rygg c1u332q5 cxyhr6i cs9nbnq c13awbme c75vobj`} />
 <Image
 loading={"eager"}
-width={"400"}
+width={800}
+src={"/assets/Home-Hero-Kristof_Eilers_Mobile_eqOrV3Tagvybc-tRqI8zk.png"}
+height={801}
 className={`w-image c74wcrw c1vxo9he c1ccq1ut c1qxvaw5 ci53oys c1vg4034 c1ec6xoz cxjibo1`} />
 </Box>
 </Box>
@@ -402,6 +406,7 @@ className={`w-image c74wcrw c1vxo9he cfarbyh c1qxvaw5 c1gn8oj0`} />
 <Image
 loading={"eager"}
 height={"25"}
+optimize={true}
 className={`w-image c74wcrw c1vxo9he cfarbyh c1qxvaw5 c1gn8oj0`} />
 <Image
 loading={"eager"}
